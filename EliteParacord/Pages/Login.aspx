@@ -33,9 +33,8 @@
         <div id="Login-block-2">
             <h1>New Customers</h1>
             <p>Register for a new account to make orders and purchase<br /> your favourite paracord bracelet.</p>
-            <p>
-                <asp:Button ID="Button2" runat="server" Height="52px" OnClick="Button2_Click" Text="Register Now" Width="264px" />
-            </p>
+            <br />
+            <a href="Register.aspx"<h2>Register Here</h2>
             <br />
             <br />
             <br />

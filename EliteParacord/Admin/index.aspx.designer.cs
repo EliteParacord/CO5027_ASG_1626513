@@ -7,28 +7,28 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace EliteParacord.Pages {
+namespace EliteParacord.Admin {
     
     
-    public partial class Login {
+    public partial class index {
         
         /// <summary>
-        /// TxtLoginEmail control.
+        /// txtloginEmail control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TxtLoginEmail;
+        protected global::System.Web.UI.WebControls.TextBox txtloginEmail;
         
         /// <summary>
-        /// TxtLoginPassword control.
+        /// txtLogin control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TxtLoginPassword;
+        protected global::System.Web.UI.WebControls.TextBox txtLogin;
         
         /// <summary>
         /// btnLogin control.
@@ -40,12 +40,12 @@ namespace EliteParacord.Pages {
         protected global::System.Web.UI.WebControls.Button btnLogin;
         
         /// <summary>
-        /// litLoginError control.
+        /// Literal1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal litLoginError;
+        protected global::System.Web.UI.WebControls.Literal Literal1;
     }
 }

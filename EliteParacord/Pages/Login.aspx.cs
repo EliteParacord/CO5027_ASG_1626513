@@ -19,10 +19,6 @@ namespace EliteParacord.Pages
 
         }
 
-        protected void Button2_Click(object sender, EventArgs e)
-        {
-
-        }
 
         protected void btnLogin_Click(object sender, EventArgs e)
         {
@@ -40,12 +36,6 @@ namespace EliteParacord.Pages
 ;            }
              
     }
-        private void LogUserIn(UserManager<IdentityUser> usernamager, IdentityUser user)
-        {
-            var authenticationManager = HttpContext.Current.GetOwinContext().Authentication;
-            var userIdentity = userManager.CreateIdentity(user, DefaultAuthenticationTypes.ApplicationCookie);
-            authenticationManager.SignIn(new Microsoft.Owin.Security.AuthenticationProperties() { }, userIdentity);
-        }
 
     }
 }
