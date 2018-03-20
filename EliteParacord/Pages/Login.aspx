@@ -11,6 +11,10 @@
         .auto-style3 {
             margin-left: 0px;
         }
+        .auto-style4 {
+            height: 292px;
+            margin-top: 58px;
+        }
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -30,7 +34,7 @@
             </p>
             <p>&nbsp;</p>
         </div>
-        <div id="Login-block-2">
+        <div id="Login-block-2" class="auto-style4">
             <h1>New Customers</h1>
             <p>Register for a new account to make orders and purchase<br /> your favourite paracord bracelet.</p>
             <br />
