@@ -143,9 +143,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Admin\Add.aspx" />
+    <Content Include="Admin\Admin.aspx" />
     <Content Include="Admin\Edit.aspx" />
     <Content Include="Admin\index.aspx" />
     <Content Include="Admin\List.aspx" />
+    <Content Include="Admin\UploadImage.aspx" />
     <Content Include="Images\logo.png" />
     <Content Include="Images\Logo2.png" />
     <Content Include="Images\Slideshow\Slide1.jpg" />
@@ -163,6 +165,7 @@
     <None Include="scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Pages\Login.aspx" />
     <Content Include="Pages\Product.aspx" />
+    <Content Include="ProductImages\Epal.jpg" />
     <Content Include="scripts\jquery-3.3.1.js" />
     <Content Include="scripts\jquery-3.3.1.min.js" />
     <Content Include="scripts\jquery-3.3.1.slim.js" />
@@ -183,7 +186,6 @@
     <Content Include="Pages\Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="HTML\index.html" />
-    <Content Include="Pages\Register.aspx" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Web.config">
@@ -197,6 +199,13 @@
     </Compile>
     <Compile Include="Admin\Add.aspx.designer.cs">
       <DependentUpon>Add.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Admin.aspx.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin.aspx.designer.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
     </Compile>
     <Compile Include="Admin\Edit.aspx.cs">
       <DependentUpon>Edit.aspx</DependentUpon>
@@ -218,6 +227,13 @@
     </Compile>
     <Compile Include="Admin\List.aspx.designer.cs">
       <DependentUpon>List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UploadImage.aspx.cs">
+      <DependentUpon>UploadImage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\UploadImage.aspx.designer.cs">
+      <DependentUpon>UploadImage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>
@@ -265,13 +281,6 @@
       <DependentUpon>Product.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Pages\Register.aspx.cs">
-      <DependentUpon>Register.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Pages\Register.aspx.designer.cs">
-      <DependentUpon>Register.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>

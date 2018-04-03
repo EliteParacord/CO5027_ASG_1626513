@@ -5,17 +5,19 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div id="container">
         <h1>List of Products</h1>
-    <p>
-        <asp:GridView ID="GridView1" runat="server" AllowPaging="True" AutoGenerateColumns="False" DataKeyNames="ProductId" DataSourceID="SqlDataSource1" Width="666px">
+        <asp:GridView ID="GridView1" runat="server" AllowPaging="True" AutoGenerateColumns="False" DataKeyNames="ProductId" DataSourceID="SqlDataSource1" Width="890px" Height="363px">
             <Columns>
-                <asp:BoundField DataField="ProductId" HeaderText="ProductId" InsertVisible="False" ReadOnly="True" SortExpression="ProductId" />
-                <asp:BoundField DataField="ProductName" HeaderText="ProductName" SortExpression="ProductName" />
-                <asp:BoundField DataField="ProductDesc" HeaderText="ProductDesc" SortExpression="ProductDesc" />
-                <asp:ButtonField ButtonType="Button" CommandName="Edit" HeaderText="Action" ShowHeader="True" Text="Edit" />
-                <asp:HyperLinkField DataNavigateUrlFields="ProductId" DataNavigateUrlFormatString="Edit.aspx?Productid={0}" Text="Edit" />
+                <asp:BoundField DataField="ProductId" HeaderText="Product Id" InsertVisible="False" ReadOnly="True" SortExpression="ProductId" />
+                <asp:BoundField DataField="ProductName" HeaderText="Product Name" SortExpression="ProductName" />
+                <asp:BoundField DataField="ProductDesc" HeaderText="Product Description" SortExpression="ProductDesc" />
+                <asp:ButtonField ButtonType="Button" CommandName="Edit" HeaderText="Edit" ShowHeader="True" Text="Edit" />
+                <asp:ButtonField ButtonType="Button" CommandName="Delete" HeaderText="Delete" ShowHeader="True" Text="Button" />
+                <asp:ButtonField ButtonType="Button" CommandName="Update" HeaderText="Save" ShowHeader="True" Text="Save" />
+                <asp:HyperLinkField DataNavigateUrlFields="id" DataNavigateUrlFormatString="UploadImage.aspx?id={0}" HeaderText="Upload Image" Text="Upload Image" />
+                <asp:ImageField DataImageUrlFormatString="UploadImage.aspx?id={0}" HeaderText="Product Image">
+                </asp:ImageField>
             </Columns>
         </asp:GridView>
-    </p>
         <p>
             <a href="Add.aspx">Add Products</a></p>
         <p>

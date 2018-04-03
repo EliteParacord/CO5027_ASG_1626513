@@ -21,7 +21,7 @@ namespace EliteParacord.Pages
 
         protected void btnLogin_Click(object sender, EventArgs e)
         {
-            var identityDbContext = new IdentityDbContext("IdentityConnectionString");
+            var identityDbContext = new IdentityDbContext("IdentityConnection");
             var userStore = new UserStore<IdentityUser>(identityDbContext);
             var userManager = new UserManager<IdentityUser>(userStore);
             var user = userManager.Find(TxtLoginEmail.Text, TxtLoginPassword.Text);
@@ -42,6 +42,27 @@ namespace EliteParacord.Pages
             var userIdentity = userManager.CreateIdentity(
                 user, DefaultAuthenticationTypes.ApplicationCookie);
             authenticationManager.SignIn(new AuthenticationProperties() {}, userIdentity);
+        }
+
+        protected void btnUserReg_Click(object sender, EventArgs e)
+        {
+            var identityDbContext = new IdentityDbContext("IdentityConnection")
+;
+            var userStore = new UserStore<IdentityUser>(identityDbContext);
+            var manager = new UserManager<IdentityUser>(userStore);
+            var user = new IdentityUser() { UserName = TxtEmailReg.Text, Email = TxtEmailReg.Text }
+;
+            IdentityResult result = manager.Create(user, TxtPasswordReg.Text);
+            if (result.Succeeded)
+
+            {
+                litReg.Text = "User Registration Successful !";
+                ;
+            }
+            else
+            {
+                litReg.Text = "An Error has occured: " + result.Errors.FirstOrDefault();
+            }
         }
     }
 }

@@ -1,0 +1,1044 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=10" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://juliandance.org/xmlrpc.php" />
+	<title>Red Apple Sponsor - 2x2 Banner - Julian Dance</title>
+<script>(window.gaDevIds=window.gaDevIds||[]).push('5CDcaG');</script>
+<!-- This site is optimized with the Yoast SEO plugin v6.3.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://juliandance.org/product/2x2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Red Apple Sponsor - 2x2 Banner - Julian Dance" />
+<meta property="og:description" content="Artwork is a $25 fee, we can put anything you may want on your banner." />
+<meta property="og:url" content="http://juliandance.org/product/2x2/" />
+<meta property="og:site_name" content="Julian Dance" />
+<meta property="article:publisher" content="https://www.facebook.com/JulianBackcountryDance/" />
+<meta property="og:image" content="http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="456" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Artwork is a $25 fee, we can put anything you may want on your banner." />
+<meta name="twitter:title" content="Red Apple Sponsor - 2x2 Banner - Julian Dance" />
+<meta name="twitter:image" content="http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/juliandance.org\/","name":"Julian Dance","alternateName":"Sons of the American Legion 468","potentialAction":{"@type":"SearchAction","target":"http:\/\/juliandance.org\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/juliandance.org\/product\/2x2\/","sameAs":["https:\/\/www.facebook.com\/JulianBackcountryDance\/"],"@id":"#organization","name":"Sons of the American Legion Post 468","logo":"http:\/\/juliandance.org\/wp-content\/uploads\/2016\/01\/volunteerst-shirt1-2-1.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//api.mqcdn.com' />
+<link rel='dns-prefetch' href='//a.optmstr.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Julian Dance &raquo; Feed" href="http://juliandance.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Julian Dance &raquo; Comments Feed" href="http://juliandance.org/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_track_user = true;
+	var disableStr = 'ga-disable-UA-75433214-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-75433214-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( '%c' + "", 'color:#F74C2F;font-size: 1.5em;font-weight:800;');
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you\'re not being tracked. ");
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+		})();
+	}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/juliandance.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='formidable-css'  href='http://juliandance.org/wp-content/plugins/formidable/css/formidableforms.css?ver=2272339' type='text/css' media='all' />
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://juliandance.org/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='get-directions-css'  href='http://juliandance.org/wp-content/plugins/get-directions/frontend/css/frontend.css?ver=2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mapquest-css-css'  href='https://api.mqcdn.com/sdk/mapquest-js/v1.2.0/mapquest.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://juliandance.org/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://juliandance.org/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.3.3' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://juliandance.org/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='vantage-style-css'  href='http://juliandance.org/wp-content/themes/vantage/style.css?ver=1.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://juliandance.org/wp-content/themes/vantage/fontawesome/css/font-awesome.css?ver=4.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='vantage-woocommerce-css'  href='http://juliandance.org/wp-content/themes/vantage/css/woocommerce.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-mobilenav-css'  href='http://juliandance.org/wp-content/themes/vantage/inc/mobilenav/css/mobilenav.css?ver=1.5.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://juliandance.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://juliandance.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/juliandance.org","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.2'></script>
+<script type='text/javascript' src='https://api.mqcdn.com/sdk/mapquest-js/v1.2.0/mapquest.js?ver=1.2.0'></script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/themes/vantage/js/jquery.flexslider.min.js?ver=2.1'></script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/themes/vantage/js/jquery.touchSwipe.min.js?ver=1.6.6'></script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/themes/vantage/js/jquery.theme-main.min.js?ver=1.5.8'></script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/themes/vantage/js/jquery.fitvids.min.js?ver=1.0'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://juliandance.org/wp-content/themes/vantage/js/html5.min.js?ver=3.7.3'></script>
+<![endif]-->
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type='text/javascript' src='http://juliandance.org/wp-content/themes/vantage/js/selectivizr.min.js?ver=1.0.2'></script>
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mobileNav = {"search":"","text":{"navigate":"Menu","back":"Back","close":"Close"},"nextIconUrl":"http:\/\/juliandance.org\/wp-content\/themes\/vantage\/inc\/mobilenav\/images\/next.png","mobileMenuClose":"<i class=\"fa fa-times\"><\/i>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/themes/vantage/inc/mobilenav/js/mobilenav.min.js?ver=1.5.8'></script>
+<script type='text/javascript' data-cfasync="false" id="omapi-script" async="async" src='https://a.optmstr.com/app/js/api.min.js?ver=1.3.4'></script>
+<link rel='https://api.w.org/' href='http://juliandance.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://juliandance.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://juliandance.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://juliandance.org/?p=84' />
+<link rel="alternate" type="application/json+oembed" href="http://juliandance.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjuliandance.org%2Fproduct%2F2x2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://juliandance.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjuliandance.org%2Fproduct%2F2x2%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />		<style type="text/css">
+			.so-mobilenav-mobile + * { display: none; }
+			@media screen and (max-width: 480px) { .so-mobilenav-mobile + * { display: block; } .so-mobilenav-standard + * { display: none; } }
+		</style>
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+		<style type="text/css" media="screen">
+		#footer-widgets .widget { width: 100%; }
+		#masthead-widgets .widget { width: 100%; }
+	</style>
+	<style type="text/css" id="vantage-footer-widgets">#footer-widgets aside { width : 100%; } </style> <style type="text/css" id="customizer-css">#masthead .hgroup h1, #masthead.masthead-logo-in-menu .logo > h1 { font-size: 0px; color: #000000 } #masthead .hgroup .support-text { color: #000000 } .entry-content, #comments .commentlist article .comment-meta a { color: #000000 } .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6, #comments .commentlist article .comment-author a, #comments .commentlist article .comment-author, #comments-title, #reply-title, #commentform label { color: #000000 } #comments-title, #reply-title { border-bottom-color: #000000 } .entry-content a, .entry-content a:visited, #secondary a, #secondary a:visited, #masthead .hgroup a, #masthead .hgroup a:visited, .comment-form .logged-in-as a, .comment-form .logged-in-as a:visited { color: #b54d11 } .main-navigation ul li:hover > a, #search-icon #search-icon-icon:hover { background-color: #b54d11 } .main-navigation ul ul li:hover > a { background-color: #000000 } a.button, button, html input[type="button"], input[type="reset"], input[type="submit"], .post-navigation a, #image-navigation a, article.post .more-link, article.page .more-link, .paging-navigation a, .woocommerce #page-wrapper .button, .woocommerce a.button, .woocommerce .checkout-button, .woocommerce input.button, #infinite-handle span button { text-shadow: none } a.button, button, html input[type="button"], input[type="reset"], input[type="submit"], .post-navigation a, #image-navigation a, article.post .more-link, article.page .more-link, .paging-navigation a, .woocommerce #page-wrapper .button, .woocommerce a.button, .woocommerce .checkout-button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, #infinite-handle span { -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none } #masthead { background-color: #453328 } #main { background-color: #ffffff } </style><link rel="icon" href="http://juliandance.org/wp-content/uploads/2016/03/cropped-BoyAndGirl512x512Transparent-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://juliandance.org/wp-content/uploads/2016/03/cropped-BoyAndGirl512x512Transparent-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://juliandance.org/wp-content/uploads/2016/03/cropped-BoyAndGirl512x512Transparent-180x180.png" />
+<meta name="msapplication-TileImage" content="http://juliandance.org/wp-content/uploads/2016/03/cropped-BoyAndGirl512x512Transparent-270x270.png" />
+
+<script type='text/javascript' src='http://juliandance.org/wp-content/plugins/wp-spamshield/js/jscripts.php'></script> 
+<!-- WooCommerce Colors -->
+<style type="text/css">
+
+</style>
+<!--/WooCommerce Colors-->
+</head>
+
+<body class="product-template-default single single-product postid-84 woocommerce woocommerce-page responsive layout-full no-js has-sidebar page-layout-default mobilenav">
+
+
+<div id="page-wrapper">
+
+	
+	
+		
+<header id="masthead" class="site-header masthead-logo-in-menu" role="banner">
+
+	
+<nav role="navigation" class="site-navigation main-navigation primary use-sticky-menu">
+
+	<div class="full-container">
+					<a href="http://juliandance.org/" title="Julian Dance" rel="home" class="logo"><img src="http://juliandance.org/wp-content/uploads/2017/02/logo-150.png"  class="logo-height-constrain"  width="150"  height="47"  alt="Julian Dance Logo"  /></a>
+				
+					<div id="so-mobilenav-standard-1" data-id="1" class="so-mobilenav-standard"></div><div class="menu-2017-main-container"><ul id="menu-2017-main" class="menu"><li id="menu-item-315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-315"><a href="http://juliandance.org/">Home</a></li>
+<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="http://juliandance.org/2018-bands/">2018 Bands</a></li>
+<li id="menu-item-329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329"><a href="http://juliandance.org/the-barbecue/">The Food</a></li>
+<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-627"><a href="http://juliandance.org/lodging/">Lodging</a></li>
+<li id="menu-item-359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-359"><a href="http://juliandance.org/things-know/">Things to Know, 2018</a>
+<ul class="sub-menu">
+	<li id="menu-item-325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a href="http://juliandance.org/directions/">Directions</a></li>
+</ul>
+</li>
+<li id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="http://juliandance.org/become-a-sponsor/">Become a Sponsor</a></li>
+<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-316"><a href="http://juliandance.org/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-326"><a href="http://juliandance.org/contact-us/">Contact Us</a></li>
+	<li id="menu-item-378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-378"><a href="http://juliandance.org/wp-content/uploads/2017/05/Dance-Media-Release.pdf"><span class="icon"></span>2017 Press Release (PDF)</a></li>
+</ul>
+</li>
+</ul></div><div id="so-mobilenav-mobile-1" data-id="1" class="so-mobilenav-mobile"></div><div class="menu-mobilenav-container"><ul id="mobile-nav-item-wrap-1" class="menu"><li><a href="#" class="mobilenav-main-link" data-id="1"><span class="mobile-nav-icon"></span>Menu</a></li></ul></div>			</div>
+</nav><!-- .site-navigation .main-navigation -->
+
+</header><!-- #masthead .site-header -->
+
+	
+	
+	
+	
+	<div id="main" class="site-main">
+		<div class="full-container">
+			
+	<div id="primary" class="content-area"><main id="main" class="site-main" role="main"><nav class="woocommerce-breadcrumb"><a href="http://juliandance.org">Home</a>&nbsp;&#47;&nbsp;<a href="http://juliandance.org/product-category/sponsorships/">Sponsorships</a>&nbsp;&#47;&nbsp;Red Apple Sponsor &#8211; 2&#215;2 Banner</nav>
+		
+			<div id="product-84" class="post-84 product type-product status-publish has-post-thumbnail product_cat-sponsorships post first instock shipping-taxable purchasable product-type-simple">
+
+	<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
+	<figure class="woocommerce-product-gallery__wrapper">
+		<div data-thumb="http://juliandance.org/wp-content/uploads/2016/01/RedApple-100x100.jpg" class="woocommerce-product-gallery__image"><a href="http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg"><img width="400" height="456" src="http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg" class="wp-post-image" alt="" title="RedApple" data-caption="" data-src="http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg" data-large_image="http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg" data-large_image_width="400" data-large_image_height="456" srcset="http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg 400w, http://juliandance.org/wp-content/uploads/2016/01/RedApple-263x300.jpg 263w" sizes="(max-width: 400px) 100vw, 400px" /></a></div>	</figure>
+</div>
+
+	<div class="summary entry-summary">
+		<h1 class="product_title entry-title">Red Apple Sponsor &#8211; 2&#215;2 Banner</h1><p class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>100.00</span></p>
+<div class="woocommerce-product-details__short-description">
+	<p>Artwork is a $25 fee, we can put anything you may want on your banner.</p>
+</div>
+
+	
+	<form class="cart" action="http://juliandance.org/product/2x2/" method="post" enctype='multipart/form-data'>
+			<div class="quantity">
+		<label class="screen-reader-text" for="quantity_5ac21a9d61e4d">Quantity</label>
+		<input type="number" id="quantity_5ac21a9d61e4d" class="input-text qty text" step="1" min="1" max="" name="quantity" value="1" title="Qty" size="4" pattern="[0-9]*" inputmode="numeric" aria-labelledby="" />
+	</div>
+	
+		<button type="submit" name="add-to-cart" value="84" class="single_add_to_cart_button button alt">Add to cart</button>
+
+			</form>
+
+	
+<div class="product_meta">
+
+	
+	
+		<span class="sku_wrapper">SKU: <span class="sku">20001</span></span>
+
+	
+	<span class="posted_in">Category: <a href="http://juliandance.org/product-category/sponsorships/" rel="tag">Sponsorships</a></span>
+	
+	
+</div>
+
+	</div>
+
+	
+	<div class="woocommerce-tabs wc-tabs-wrapper">
+		<ul class="tabs wc-tabs" role="tablist">
+							<li class="description_tab" id="tab-title-description" role="tab" aria-controls="tab-description">
+					<a href="#tab-description">Description</a>
+				</li>
+					</ul>
+					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+				
+  <h2>Description</h2>
+
+<p>Your Continued or New Purchase of a banner to advertise your business, extend your family’s good wishes, or celebrate a loved Service member of the past or present is greatly appreciated and will benefit the community of Julian.</p>
+<p>The 12th annual “Julian Dance and Back Country Barbecue” is Saturday, June 9th and is sponsored by the Sons of the American Legion. This charitable event is the Sons’ largest fundraiser of the year with all proceeds benefiting local kids, sports, scholarships, schools, organizations, and our Veterans in Julian.</p>
+<p>Your Continued or New Purchase of a banner to advertise your business, extend your family’s good wishes, or celebrate a loved Service member of the past or present on The Wall of Honor, is a great way of supporting this event and your community as well. This year 2018, we are promoting the celebration of our 12th year “DANCE” anniversary.</p>
+<p>This years’ event kicks off at 12PM and Music starts at 2:00pm and ends at 9:00pm.  Site location is Menghini Winery. Our headliner bands are Tony Suraci as The Highwayman and The BIG FAT STEVE BAND.<br />
+Together with a great barbecue your ‘SONS’ will be providing entertainment for kids and adults alike, at this great family event.</p>
+<p>Advertising by the ‘Sons’ will include San Diego County print media, local TV, and Internet social sites, as well as personal contact by a hard working organization that takes your donation seriously and is committed to the welfare of their community. Last years attendance was the best ever.<br />
+May we count on you to continue your support and allow us to Fly Your Banner our 12th Anniversary Julian Dance.<br />
+Our ‘Sons’ will be in touch with you for your participation in this years’ event. Please make a place for us in your support.</p>
+<p>Because we are a registered non-profit organization, all contributions are tax deductible. All the money we raise from “The Julian Dance” goes to worthy causes in Julian.</p>
+<p>Very truly yours,<br />
+The Sons of the American Legion, Post 468</p>
+			</div>
+			</div>
+
+
+	<section class="related products">
+
+		<h2>Related products</h2>
+
+		<ul class="products columns-4">
+
+			
+				<li class="post-86 product type-product status-publish has-post-thumbnail product_cat-sponsorships post first instock shipping-taxable purchasable product-type-simple">
+	<a href="http://juliandance.org/product/2x4/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//juliandance.org/wp-content/uploads/2016/01/SilverApple-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="//juliandance.org/wp-content/uploads/2016/01/SilverApple-300x300.jpg 300w, //juliandance.org/wp-content/uploads/2016/01/SilverApple-100x100.jpg 100w, //juliandance.org/wp-content/uploads/2016/01/SilverApple-600x600.jpg 600w, //juliandance.org/wp-content/uploads/2016/01/SilverApple-150x150.jpg 150w, //juliandance.org/wp-content/uploads/2016/01/SilverApple-768x768.jpg 768w, //juliandance.org/wp-content/uploads/2016/01/SilverApple-1024x1024.jpg 1024w, //juliandance.org/wp-content/uploads/2016/01/SilverApple.jpg 1500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Silver Apple Sponsor &#8211; 2&#215;4 Banner</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>200.00</span></span>
+</a><a href="/product/2x2/?add-to-cart=86" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="86" data-product_sku="20002" aria-label="Add &ldquo;Silver Apple Sponsor - 2x4 Banner&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+
+			
+				<li class="post-649 product type-product status-publish has-post-thumbnail product_cat-sponsorships post  instock shipping-taxable purchasable product-type-simple">
+	<a href="http://juliandance.org/product/buy-active-military-dinner/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//juliandance.org/wp-content/uploads/2018/03/sponsor-dinner-product.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="//juliandance.org/wp-content/uploads/2018/03/sponsor-dinner-product.png 300w, //juliandance.org/wp-content/uploads/2018/03/sponsor-dinner-product-150x150.png 150w, //juliandance.org/wp-content/uploads/2018/03/sponsor-dinner-product-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Buy Active Military Dinner</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>15.00</span></span>
+</a><a href="/product/2x2/?add-to-cart=649" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="649" data-product_sku="Mil-Din" aria-label="Add &ldquo;Buy Active Military Dinner&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+
+			
+				<li class="post-85 product type-product status-publish has-post-thumbnail product_cat-sponsorships post  instock shipping-taxable purchasable product-type-simple">
+	<a href="http://juliandance.org/product/2x6/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//juliandance.org/wp-content/uploads/2016/01/GoldenApple-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="//juliandance.org/wp-content/uploads/2016/01/GoldenApple-300x300.jpg 300w, //juliandance.org/wp-content/uploads/2016/01/GoldenApple-100x100.jpg 100w, //juliandance.org/wp-content/uploads/2016/01/GoldenApple-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Golden Apple Sponsor &#8211; 2&#215;6 Banner</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>300.00</span></span>
+</a><a href="/product/2x2/?add-to-cart=85" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="85" data-product_sku="20003" aria-label="Add &ldquo;Golden Apple Sponsor - 2x6 Banner&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+
+			
+				<li class="post-180 product type-product status-publish has-post-thumbnail product_cat-sponsorships post last instock shipping-taxable purchasable product-type-simple">
+	<a href="http://juliandance.org/product/red-white-blue-apple-sponsor-2x10-banner/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="//juliandance.org/wp-content/uploads/2016/03/Patriotic-Apple-3-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="//juliandance.org/wp-content/uploads/2016/03/Patriotic-Apple-3-300x300.jpg 300w, //juliandance.org/wp-content/uploads/2016/03/Patriotic-Apple-3-100x100.jpg 100w, //juliandance.org/wp-content/uploads/2016/03/Patriotic-Apple-3-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Red White &#038; Blue Apple Sponsor &#8211; 2&#215;10 Banner</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>1,000.00</span></span>
+</a><a href="/product/2x2/?add-to-cart=180" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="180" data-product_sku="20004" aria-label="Add &ldquo;Red White &amp; Blue Apple Sponsor - 2x10 Banner&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+
+			
+		</ul>
+
+	</section>
+
+</div>
+
+
+		
+	</main></div>
+	
+<div id="secondary" class="widget-area" role="complementary">
+		<aside id="text-6" class="widget widget_text">			<div class="textwidget"><a href="http://juliandance.org/product/adult-ticket/"><img class="aligncenter size-medium wp-image-531" src="http://juliandance.org/wp-content/uploads/2018/03/tickets-300x153.png" alt="" width="300" height="153" /></a></div>
+		</aside>		<link href="http://juliandance.org/wp-content/plugins/slideshow-ck/themes/default/css/camera.css" rel="stylesheet" type="text/css" />
+		<style type="text/css">
+			#camera_wrap_432 .camera_pag_ul li img, #camera_wrap_432 .camera_thumbs_cont ul li img {
+				height:100px;
+				width: auto;
+			}
+			#camera_wrap_432 .camera_caption {
+				display: block;
+				position: absolute;
+			}
+			#camera_wrap_432 .camera_caption > div {
+				background: #000000;			}
+			#camera_wrap_432 .camera_caption div.camera_caption_title {
+				font-size: 18px;line-height: 18px;font-weight: normal;			}
+			#camera_wrap_432 .camera_caption div.camera_caption_desc {
+				font-size: 12px;line-height: 12px;font-weight: normal;			}
+		</style>
+				<link href="http://juliandance.org/wp-content/plugins/slideshow-ck/themes/default/css/camera.css" rel="stylesheet" type="text/css" />
+		<style type="text/css">
+			#camera_wrap_467 .camera_pag_ul li img, #camera_wrap_467 .camera_thumbs_cont ul li img {
+				height:100px;
+				width: auto;
+			}
+			#camera_wrap_467 .camera_caption {
+				display: block;
+				position: absolute;
+			}
+			#camera_wrap_467 .camera_caption > div {
+				background: #000000;			}
+			#camera_wrap_467 .camera_caption div.camera_caption_title {
+				font-size: 18px;line-height: 18px;font-weight: normal;			}
+			#camera_wrap_467 .camera_caption div.camera_caption_desc {
+				font-size: 12px;line-height: 12px;font-weight: normal;			}
+		</style>
+				<link href="http://juliandance.org/wp-content/plugins/slideshow-ck/themes/default/css/camera.css" rel="stylesheet" type="text/css" />
+		<style type="text/css">
+			#camera_wrap_469 .camera_pag_ul li img, #camera_wrap_469 .camera_thumbs_cont ul li img {
+				height:100px;
+				width: auto;
+			}
+			#camera_wrap_469 .camera_caption {
+				display: block;
+				position: absolute;
+			}
+			#camera_wrap_469 .camera_caption > div {
+				background: #000000;			}
+			#camera_wrap_469 .camera_caption div.camera_caption_title {
+				font-size: 18px;line-height: 18px;font-weight: normal;			}
+			#camera_wrap_469 .camera_caption div.camera_caption_desc {
+				font-size: 12px;line-height: 12px;font-weight: normal;			}
+		</style>
+				<link href="http://juliandance.org/wp-content/plugins/slideshow-ck/themes/default/css/camera.css" rel="stylesheet" type="text/css" />
+		<style type="text/css">
+			#camera_wrap_429 .camera_pag_ul li img, #camera_wrap_429 .camera_thumbs_cont ul li img {
+				height:100px;
+				width: auto;
+			}
+			#camera_wrap_429 .camera_caption {
+				display: block;
+				position: absolute;
+			}
+			#camera_wrap_429 .camera_caption > div {
+				background: #000000;			}
+			#camera_wrap_429 .camera_caption div.camera_caption_title {
+				font-size: 18px;line-height: 18px;font-weight: normal;			}
+			#camera_wrap_429 .camera_caption div.camera_caption_desc {
+				font-size: 12px;line-height: 12px;font-weight: normal;			}
+		</style>
+				<link href="http://juliandance.org/wp-content/plugins/slideshow-ck/themes/default/css/camera.css" rel="stylesheet" type="text/css" />
+		<style type="text/css">
+			#camera_wrap_477 .camera_pag_ul li img, #camera_wrap_477 .camera_thumbs_cont ul li img {
+				height:100px;
+				width: auto;
+			}
+			#camera_wrap_477 .camera_caption {
+				display: block;
+				position: absolute;
+			}
+			#camera_wrap_477 .camera_caption > div {
+				background: #000000;			}
+			#camera_wrap_477 .camera_caption div.camera_caption_title {
+				font-size: 18px;line-height: 18px;font-weight: normal;			}
+			#camera_wrap_477 .camera_caption div.camera_caption_desc {
+				font-size: 12px;line-height: 12px;font-weight: normal;			}
+		</style>
+		<aside id="text-9" class="widget widget_text">			<div class="textwidget"><a href="http://juliandance.org/wp-content/uploads/2017/06/thank-you.png"><img class="aligncenter size-full wp-image-431" src="http://juliandance.org/wp-content/uploads/2017/06/thank-you.png" alt="" width="250" height="129" /></a>
+		<div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_432">
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/Goddard.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/Goddard.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/julian-properties.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/julian-properties.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/Julian-interiors.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/Julian-interiors.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/apple-lane-orchard.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/apple-lane-orchard.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/apple-alley-bakery.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/apple-alley-bakery.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/mark-owens.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/mark-owens.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/Goldenburg.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/Goldenburg.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/cider-mill.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/cider-mill.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/bblock.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/bblock.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/chimney-sweep.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/chimney-sweep.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/CVB-Logotype-2.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/CVB-Logotype-2.jpg" >
+										</div>
+					</div>
+		<div style="clear:both;"></div>
+		<br>
+		<div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_467">
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/chamber.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/chamber.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/grannys.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/grannys.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/candied-apple-pastry.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/candied-apple-pastry.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/hard-cider.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/hard-cider.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/butterfield.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/butterfield.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/jwlumber.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/jwlumber.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/hemborg-ford.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/hemborg-ford.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/carmens.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/carmens.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/julian-auto-repair.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/julian-auto-repair.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/jacks.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/jacks.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/williams-son.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/williams-son.png" >
+										</div>
+					</div>
+		<div style="clear:both;"></div>
+		<br>
+		<div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_469">
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/hog-heaven.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/hog-heaven.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/julian-pie.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/julian-pie.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/julian-station.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/julian-station.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/julian-yesteryears.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/julian-yesteryears.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/kamps.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/kamps.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/liberty-motor.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/liberty-motor.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/moms.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/moms.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/nickel.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/nickel.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/orchard-relaty.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/orchard-relaty.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/pinecrest.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/pinecrest.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/red-hawk.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/red-hawk.png" >
+										</div>
+					</div>
+		<div style="clear:both;"></div>
+		<br>
+		<div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_429">
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/williams-son.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/williams-son.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/webb-th.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/webb-th.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/TA-Ranch.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/TA-Ranch.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/sunday.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/sunday.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/soups-such.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/soups-such.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/sauter.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/sauter.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/ramco.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/ramco.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/prava.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/prava.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/patrick-engineering.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/patrick-engineering.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/noble.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/noble.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/mountain-spirit.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/mountain-spirit.png" >
+										</div>
+					</div>
+		<div style="clear:both;"></div>
+		<br>
+		<div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_477">
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/julian-market.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/julian-market.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/winship-painting-julian.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/winship-painting-julian.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/romanos.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/romanos.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/sprague.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/sprague.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/westcoat.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/westcoat.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/sage.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/sage.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/warm-hearth.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/warm-hearth.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/stanley.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/stanley.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/ramona-disposal.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/ramona-disposal.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/volcan-winery.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/volcan-winery.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/lamar.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/lamar.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/rongbranch.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/rongbranch.jpg" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/societe-brew.png" data-src="http://juliandance.org/wp-content/uploads/2017/06/societe-brew.png" >
+										</div>
+							<div data-thumb="http://juliandance.org/wp-content/uploads/2017/06/ransom.jpg" data-src="http://juliandance.org/wp-content/uploads/2017/06/ransom.jpg" >
+										</div>
+					</div>
+		<div style="clear:both;"></div>
+		</div>
+		</aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><iframe src="https://www.youtube.com/embed/ZW9xpyz3wuo" frameborder="0" allowfullscreen></iframe></div>
+		</aside><aside id="text-8" class="widget widget_text">			<div class="textwidget"><strong><span style="color: #000000;">The Julian Dance and Back Country BBQ is an outdoor event in its 12th year. The brain-child of the Sons of the American Legion in Julian, it began and has grown as an event to raise funds for Veterans, kids, local schools and other charitable organizations in the community. From the beginning, the “Dance” has featured the best in country music and dancing on the huge floor and stage built by the Sons. Fabulous BBQ has been a keystone of the event with all the food cooked on-site in the Santa Maria style on an open oak flame. The wholesome family event is staged each year in a beautiful mountain setting at the Menghini Winery. With separate events for kids in their own area the “Dance” is a throwback to a simpler time with twinkly lights and bonfires back-dropped by dark mountain skies. It’s an event where locals and guests from down the hill get together for a great time and raise funds for a great cause</span></strong></div>
+		</aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><h2 style="text-align: center;">Become  a Sponsor and See Your Name Featured Here</h2><br>
+<a href="http://juliandance.org/wp-content/uploads/2017/02/Sal-arrmed-with-volunteers.png"><img class="size-full wp-image-324 aligncenter" src="http://juliandance.org/wp-content/uploads/2017/02/Sal-arrmed-with-volunteers.png" alt="sal-arrmed-with-volunteers" width="236" height="315" /></a></div>
+		</aside>	</div><!-- #secondary .widget-area -->
+
+					</div><!-- .full-container -->
+	</div><!-- #main .site-main -->
+
+	
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+
+			<div id="footer-widgets" class="full-container">
+			<aside id="text-7" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;"><strong><span style="color: #ffffff;"><a style="color: #ffffff;" href="http://www.salpost468.org" target="_blank">SAL Post 468, Julian, Calfiornia</a></span></strong></p></div>
+		</aside>		</div><!-- #footer-widgets -->
+	
+	
+	<div id="theme-attribution">A <a href="https://siteorigin.com">SiteOrigin</a> Theme</div>
+</footer><!-- #colophon .site-footer -->
+
+	
+</div><!-- #page-wrapper -->
+
+
+		<!-- Chained Products Style Start -->
+		<style type="text/css">
+			.chained_item td.product-name {
+				font-size: 0.9em;
+			}
+			.chained_item td.product-name {
+				padding-left: 2em !important;
+			}
+		</style>
+		<!-- Chained Products Style End -->
+		
+<script type='text/javascript'>
+/* <![CDATA[ */
+r3f5x9JS=escape(document['referrer']);
+hf4N='f90ab1bac0d9dbacf5884b029139ab7c';
+hf4V='c44a144f8b6c16258569b67140185102';
+jQuery(document).ready(function($){var e="#commentform, .comment-respond form, .comment-form, #lostpasswordform, #registerform, #loginform, #login_form, #wpss_contact_form";$(e).submit(function(){$("<input>").attr("type","hidden").attr("name","r3f5x9JS").attr("value",r3f5x9JS).appendTo(e);$("<input>").attr("type","hidden").attr("name",hf4N).attr("value",hf4V).appendTo(e);return true;});$("#comment").attr({minlength:"15",maxlength:"15360"})});
+/* ]]> */
+</script> 
+<a href="#" id="scroll-to-top" class="scroll-to-top" title="Back To Top"><span class="vantage-icon-arrow-up"></span></a><!--Enhanced Ecommerce Google Analytics Plugin for Woocommerce by Tatvic Plugin Version:1.2.2--><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@graph":[{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":"1","item":{"name":"Home","@id":"http:\/\/juliandance.org"}},{"@type":"ListItem","position":"2","item":{"name":"Sponsorships","@id":"http:\/\/juliandance.org\/product-category\/sponsorships\/"}},{"@type":"ListItem","position":"3","item":{"name":"Red Apple Sponsor &#8211; 2&#215;2 Banner"}}]},{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"http:\/\/juliandance.org\/product\/2x2\/","name":"Red Apple Sponsor - 2x2 Banner","image":"http:\/\/juliandance.org\/wp-content\/uploads\/2016\/01\/RedApple.jpg","description":"Artwork is a $25 fee, we can put anything you may want on your banner.","sku":"20001","offers":[{"@type":"Offer","price":"100.00","priceCurrency":"USD","availability":"https:\/\/schema.org\/InStock","url":"http:\/\/juliandance.org\/product\/2x2\/","seller":{"@type":"Organization","name":"Julian Dance","url":"http:\/\/juliandance.org"}}]}]}</script><link rel='stylesheet' id='so-css-vantage-css'  href='http://juliandance.org/wp-content/uploads/so-css/so-css-vantage.css?ver=1522352542' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://juliandance.org/wp-includes/css/dashicons.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://juliandance.org/wp-includes/js/thickbox/thickbox.css?ver=4.9.4' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"","zoom_options":[],"photoswipe_enabled":"","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=3.3.3'></script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/juliandance.org\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.3.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/juliandance.org\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_8ebfc620893e4b6cc838eadd298a88af","fragment_name":"wc_fragments_8ebfc620893e4b6cc838eadd298a88af"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.3.3'></script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/plugins/wp-spamshield/js/jscripts-ftr-min.js'></script>
+<script type='text/javascript' src='http://juliandance.org/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/juliandance.org\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://juliandance.org/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/plugins/slideshow-ck/assets/jquery.easing.1.3.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://juliandance.org/wp-content/plugins/slideshow-ck/assets/camera.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(){
+				new Slideshowck('#camera_wrap_432', {
+					height: '62%',
+					minHeight: '',
+					pauseOnClick: false,
+					hover: '1',
+					fx: 'scrollBottom',
+					loader: 'none',
+					pagination: '0',
+					thumbnails: '0',
+					thumbheight: '100',
+					thumbwidth: '75',
+					time: '3200',
+					transPeriod: 1500,
+					alignment: 'center',
+					autoAdvance: '1',
+					mobileAutoAdvance: '1',
+					portrait: '1',
+					barDirection: 'leftToRight',
+					imagePath: 'http://juliandance.org/wp-content/plugins/slideshow-ck/images/',
+					lightbox: 'mediaboxck',
+					fullpage: '0',
+					container: '',
+					//mobileimageresolution: '0',
+					navigationHover: false,
+						navigation: false,
+						playPause: false,
+						
+					barPosition: 'bottom'
+					});
+				});
+jQuery(document).ready(function(){
+				new Slideshowck('#camera_wrap_467', {
+					height: '62%',
+					minHeight: '',
+					pauseOnClick: false,
+					hover: '1',
+					fx: 'scrollHorz',
+					loader: 'none',
+					pagination: '0',
+					thumbnails: '0',
+					thumbheight: '100',
+					thumbwidth: '75',
+					time: '3100',
+					transPeriod: 1500,
+					alignment: 'center',
+					autoAdvance: '1',
+					mobileAutoAdvance: '1',
+					portrait: '1',
+					barDirection: 'leftToRight',
+					imagePath: 'http://juliandance.org/wp-content/plugins/slideshow-ck/images/',
+					lightbox: 'mediaboxck',
+					fullpage: '0',
+					container: '',
+					//mobileimageresolution: '0',
+					navigationHover: false,
+						navigation: false,
+						playPause: false,
+						
+					barPosition: 'bottom'
+					});
+				});
+jQuery(document).ready(function(){
+				new Slideshowck('#camera_wrap_469', {
+					height: '62%',
+					minHeight: '',
+					pauseOnClick: false,
+					hover: '1',
+					fx: 'scrollBottom',
+					loader: 'none',
+					pagination: '0',
+					thumbnails: '0',
+					thumbheight: '100',
+					thumbwidth: '75',
+					time: '2900',
+					transPeriod: 1500,
+					alignment: 'center',
+					autoAdvance: '1',
+					mobileAutoAdvance: '1',
+					portrait: '1',
+					barDirection: 'leftToRight',
+					imagePath: 'http://juliandance.org/wp-content/plugins/slideshow-ck/images/',
+					lightbox: 'mediaboxck',
+					fullpage: '0',
+					container: '',
+					//mobileimageresolution: '0',
+					navigationHover: false,
+						navigation: false,
+						playPause: false,
+						
+					barPosition: 'bottom'
+					});
+				});
+jQuery(document).ready(function(){
+				new Slideshowck('#camera_wrap_429', {
+					height: '62%',
+					minHeight: '',
+					pauseOnClick: false,
+					hover: '1',
+					fx: 'random',
+					loader: 'none',
+					pagination: '0',
+					thumbnails: '0',
+					thumbheight: '100',
+					thumbwidth: '75',
+					time: '3000',
+					transPeriod: 1500,
+					alignment: 'center',
+					autoAdvance: '1',
+					mobileAutoAdvance: '1',
+					portrait: '1',
+					barDirection: 'leftToRight',
+					imagePath: 'http://juliandance.org/wp-content/plugins/slideshow-ck/images/',
+					lightbox: 'mediaboxck',
+					fullpage: '0',
+					container: '',
+					//mobileimageresolution: '0',
+					navigationHover: false,
+						navigation: false,
+						playPause: false,
+						
+					barPosition: 'bottom'
+					});
+				});
+jQuery(document).ready(function(){
+				new Slideshowck('#camera_wrap_477', {
+					height: '62%',
+					minHeight: '',
+					pauseOnClick: false,
+					hover: '1',
+					fx: 'scrollLeft',
+					loader: 'none',
+					pagination: '0',
+					thumbnails: '0',
+					thumbheight: '100',
+					thumbwidth: '75',
+					time: '2900',
+					transPeriod: 1000,
+					alignment: 'center',
+					autoAdvance: '1',
+					mobileAutoAdvance: '1',
+					portrait: '1',
+					barDirection: 'leftToRight',
+					imagePath: 'http://juliandance.org/wp-content/plugins/slideshow-ck/images/',
+					lightbox: 'mediaboxck',
+					fullpage: '0',
+					container: '',
+					//mobileimageresolution: '0',
+					navigationHover: false,
+						navigation: false,
+						playPause: false,
+						
+					barPosition: 'bottom'
+					});
+				});
+</script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+tvc_lc="USD";
+
+ var variable_id = '';
+				apply_css_property();
+				if( jQuery('input[name=variation_id]').length > 0 ) {
+					display_chained_products_in_description_tab();
+				}
+
+				jQuery('input[name=variation_id]').on('change', function() {
+					
+					display_chained_products_in_description_tab();
+
+				});
+
+				function display_chained_products_in_description_tab() {
+					
+					setTimeout( function() {
+						if( variable_id == jQuery('input[name=variation_id]').val() ) {
+							return;
+						}
+						variable_id 			= jQuery('input[name=variation_id]').val();
+						var original_stock      = jQuery( 'div.single_variation p.stock' ).text();
+						var form_data           = new Object;   
+						form_data.variable_id   = variable_id;
+						form_data.price         = jQuery( '#show_price' ).val();
+						form_data.quantity      = jQuery( '#show_quantity' ).val();
+						form_data.style         = jQuery( '#select_style' ).val();
+
+						if( variable_id == undefined || variable_id == '' ) {
+							jQuery( '.tab-included-products' ).html( '' );
+							return;
+						 } 
+
+						jQuery( '.tab-included-products' ).html('<img src = \'http://juliandance.org/wp-includes/images/spinner.gif\' />');
+						jQuery( 'span.price, div.single_variation p.stock' ).css( 'visibility', 'hidden' );
+						jQuery.ajax({     
+							url: 'http://juliandance.org/wp-admin/admin-ajax.php',                   
+							type: 'POST',
+							data: {
+								form_value: form_data,
+								action: 'get_chained_products_html_view'
+							},
+							dataType: 'html',
+							success:function( result ) {
+									if( result ) {                          
+											jQuery( '.tab-included-products' ).html( result ); 
+											apply_css_property();
+											
+											if( result.lastIndexOf( '<stock' ) == -1 || result.lastIndexOf( '</stock>' ) == -1 ) {
+
+												jQuery( 'div.single_variation p.stock' ).text( original_stock );
+
+											} else {
+
+												var max_quantity = result.substring( result.lastIndexOf( '<stock' ) + 30, result.lastIndexOf( '</stock>' ) );
+												jQuery( 'div.single_variation p.stock' ).text( max_quantity + ' in stock' );                                                    
+												jQuery( 'input[name=quantity]' ).attr( 'max', max_quantity );
+												jQuery( 'input[name=quantity]' ).attr( 'data-max', max_quantity );
+
+											}
+
+									} else {	 
+
+											jQuery( '.tab-included-products' ).html( '' );                                           
+											jQuery( 'div.single_variation p.stock' ).text( original_stock );
+									}                                 
+								jQuery( 'span.price, div.single_variation p.stock' ).css( 'visibility', 'visible' );
+							}
+						});
+						
+					}, 0 ); //end setTimeout  
+				}
+
+				function apply_css_property() {
+
+					jQuery( '.tab-included-products' ).find( 'ul.products li' ).addClass( 'product' ).css( 'border-bottom', 'initial' );
+					jQuery( '.tab-included-products' ).find( 'h3' ).css( {'line-height': '1.64', 'text-transform': 'initial', 'letter-spacing': 'initial'} );
+					jQuery( '.tab-included-products' ).find( 'ul.products li.product a span.onsale' ).css( 'display' , 'none' );
+					jQuery( '.tab-included-products' ).removeClass( 'chained_items_container' ).addClass( 'chained_items_container' );
+
+				}
+			
+
+
+              ga("require", "ec", "ec.js");
+            ga("set", "&cu", tvc_lc);
+            jQuery("[class*=single_add_to_cart_button]").click(function() {
+                            
+                              // Enhanced E-commerce Add to cart clicks 
+                              ga("ec:addProduct", {
+                                "id" : tvc_po.tvc_i,
+                                "name": tvc_po.tvc_n,
+                                "category" :tvc_po.tvc_c,
+                                "price": tvc_po.tvc_p,
+                                "quantity" :jQuery(this).parent().find("input[name=quantity]").val()
+                              });
+                              ga("ec:setAction", "add");
+                              ga("send", "event", "Enhanced-Ecommerce","click", "add_to_cart_click", {"nonInteraction": 1});                              
+            });
+        
+
+tvc_po={"tvc_id":"84","tvc_i":"20001","tvc_n":"Red Apple Sponsor - 2x2 Banner","tvc_c":"Sponsorships","tvc_p":"100"};
+
+
+        ga("require", "ec", "ec.js");    
+        ga("ec:addProduct", {
+            "id": tvc_po.tvc_i,                   // Product details are provided in an impressionFieldObject.
+            "name": tvc_po.tvc_n,
+            "category":tvc_po.tvc_c,
+          });
+          ga("ec:setAction", "detail");
+          ga("send", "event", "Enhanced-Ecommerce", "load","product_impression_pp", {"nonInteraction": 1});
+        
+
+homepage_json_ATC_link=[];
+
+tvc_fp=[];
+
+tvc_rcp=[];
+
+tvc_rdp={"http:\/\/juliandance.org\/product\/2x4\/":{"tvc_id":"86","tvc_i":"20002","tvc_n":"Silver Apple Sponsor - 2x4 Banner","tvc_p":"200","tvc_po":1,"tvc_c":"Sponsorships"},"http:\/\/juliandance.org\/product\/buy-active-military-dinner\/":{"tvc_id":"649","tvc_i":"Mil-Din","tvc_n":"Buy Active Military Dinner","tvc_p":"15","tvc_po":2,"tvc_c":"Sponsorships"},"http:\/\/juliandance.org\/product\/2x6\/":{"tvc_id":"85","tvc_i":"20003","tvc_n":"Golden Apple Sponsor - 2x6 Banner","tvc_p":"300","tvc_po":3,"tvc_c":"Sponsorships"},"http:\/\/juliandance.org\/product\/red-white-blue-apple-sponsor-2x10-banner\/":{"tvc_id":"180","tvc_i":"20004","tvc_n":"Red White &amp; Blue Apple Sponsor - 2x10 Banner","tvc_p":"1000","tvc_po":4,"tvc_c":"Sponsorships"}};
+
+prodpage_json_ATC_link={"\/product\/2x2\/?add-to-cart=86":{"ATC-link":"http:\/\/juliandance.org\/product\/2x4\/"},"\/product\/2x2\/?add-to-cart=649":{"ATC-link":"http:\/\/juliandance.org\/product\/buy-active-military-dinner\/"},"\/product\/2x2\/?add-to-cart=85":{"ATC-link":"http:\/\/juliandance.org\/product\/2x6\/"},"\/product\/2x2\/?add-to-cart=180":{"ATC-link":"http:\/\/juliandance.org\/product\/red-white-blue-apple-sponsor-2x10-banner\/"}};
+
+tvc_pgc=[];
+
+catpage_json_ATC_link=[];
+
+
+                  ga("require", "ec", "ec.js");
+                  ga("set", "&cu", tvc_lc);
+        function t_products_impre_clicks(t_json_name,t_action){
+                   t_send_threshold=0;
+                   t_prod_pos=0;
+                   
+                    t_json_length=Object.keys(t_json_name).length;
+                        
+                    for(var t_item in t_json_name) {
+            t_send_threshold++;
+            t_prod_pos++;
+                            
+                 ga("ec:addImpression", {   
+                            "id": t_json_name[t_item].tvc_i,
+                            "name": t_json_name[t_item].tvc_n,
+                            "category": t_json_name[t_item].tvc_c,
+                            "price": t_json_name[t_item].tvc_p,
+                            "position": t_json_name[t_item].tvc_po,
+                        });
+                        
+        if(t_json_length > 6 ){
+                           if((t_send_threshold%6)==0){
+                            t_json_length=t_json_length-6;
+                            ga("send", "event", "Enhanced-Ecommerce","load","product_impression_"+t_action , {"nonInteraction": 1});  
+                        }
+                     }else{
+            
+                       t_json_length--;
+                       if(t_json_length==0){
+                        ga("send", "event", "Enhanced-Ecommerce","load", "product_impression_"+t_action, {"nonInteraction": 1});  
+                        }
+        }   
+                }
+        }
+                
+        //function for comparing urls in json object
+        function prod_exists_in_JSON(t_url,t_json_name,t_action){
+                                    if(t_json_name.hasOwnProperty(t_url)){
+                                        t_call_fired=true;
+                    ga("ec:addProduct", {              
+                        "id": t_json_name[t_url].tvc_i,
+                                            "name": t_json_name[t_url].tvc_n,
+                                            "category": t_json_name[t_url].tvc_c,
+                                            "price": t_json_name[t_url].tvc_p,
+                                            "position": t_json_name[t_url].tvc_po,
+                    });
+                    ga("send", "event", "Enhanced-Ecommerce","click", "product_click_"+t_action, {"nonInteraction": 1});  
+                                   }else{
+                                   t_call_fired=false;
+                }
+                                return t_call_fired;
+            }
+                function prod_ATC_link_exists(t_url,t_ATC_json_name,t_prod_data_json,t_qty){
+                    t_prod_url_key=t_ATC_json_name[t_url]["ATC-link"];
+                    
+                         if(t_prod_data_json.hasOwnProperty(t_prod_url_key)){
+                                t_call_fired=true;
+                            // Enhanced E-commerce Add to cart clicks 
+                              ga("ec:addProduct", {
+                               "id": t_prod_data_json[t_prod_url_key].tvc_i,
+                               "name": t_prod_data_json[t_prod_url_key].tvc_n,
+                               "category": t_prod_data_json[t_prod_url_key].tvc_c,
+                               "price": t_prod_data_json[t_prod_url_key].tvc_p,
+                                "quantity" : t_qty
+                              });
+                              ga("ec:setAction", "add");
+                              ga("send", "event", "Enhanced-Ecommerce","click", "add_to_cart_click",{"nonInteraction": 1});     
+                              }else{
+                                   t_call_fired=false;
+        }    
+                         return t_call_fired;
+                 
+                }
+                
+                
+                if(tvc_rdp.length !== 0){
+                    t_products_impre_clicks(tvc_rdp,"rdp");  
+                }          
+                //product click - image and product name
+                jQuery("a:not(.product_type_variable, .product_type_grouped)").on("click",function(){
+                    t_url=jQuery(this).attr("href");
+                     //prod page related call for click
+                     prod_exists_in_JSON(t_url,tvc_rdp,"rdp");
+                });  
+                //Prod ATC link click in related product section
+                jQuery("a[href*=add-to-cart]").on("click",function(){
+            t_url=jQuery(this).attr("href");
+                        t_qty=$(this).parent().find("input[name=quantity]").val();
+                             //default quantity 1 if quantity box is not there             
+                            if(t_qty=="" || t_qty===undefined){
+                                t_qty="1";
+                            }
+                prod_ATC_link_exists(t_url,prodpage_json_ATC_link,tvc_rdp,t_qty);
+                });   
+            
+
+tvc_smd={"tvc_wcv":"3.3.3","tvc_wpv":"4.9.4","tvc_eev":"1.2.2","tvc_cnf":{"t_ee":"yes","t_df":false,"t_gUser":true,"t_UAen":"no","t_thr":"6"}};
+ });
+</script>
+            <script type="text/javascript">
+                window.onload = function () {
+                    L.mapquest.key = '';
+			                }
+            </script>
+			
+</body>
+</html>
