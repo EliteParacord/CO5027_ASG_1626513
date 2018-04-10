@@ -143,13 +143,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Admin\Add.aspx" />
-    <Content Include="Admin\Admin.aspx" />
-    <Content Include="Admin\Edit.aspx" />
     <Content Include="Admin\index.aspx" />
     <Content Include="Admin\List.aspx" />
     <Content Include="Admin\UploadImage.aspx" />
     <Content Include="Images\logo.png" />
     <Content Include="Images\Logo2.png" />
+    <Content Include="Images\aboutimg.jpg" />
     <Content Include="Images\Slideshow\Slide1.jpg" />
     <Content Include="Images\Slideshow\Slide2.jpg" />
     <Content Include="Images\staticmap.png" />
@@ -162,6 +161,7 @@
     </Content>
     <Content Include="MasterPage.Master" />
     <Content Include="Admin\Web.config" />
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Pages\Login.aspx" />
     <Content Include="Pages\Product.aspx" />
@@ -199,20 +199,6 @@
     </Compile>
     <Compile Include="Admin\Add.aspx.designer.cs">
       <DependentUpon>Add.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Admin\Admin.aspx.cs">
-      <DependentUpon>Admin.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Admin\Admin.aspx.designer.cs">
-      <DependentUpon>Admin.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Admin\Edit.aspx.cs">
-      <DependentUpon>Edit.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Admin\Edit.aspx.designer.cs">
-      <DependentUpon>Edit.aspx</DependentUpon>
     </Compile>
     <Compile Include="Admin\index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>

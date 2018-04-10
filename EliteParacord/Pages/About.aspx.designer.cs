@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace EliteParacord.Admin
+namespace EliteParacord.Pages
 {
 
 
-    public partial class Admin
+    public partial class About
     {
     }
 }

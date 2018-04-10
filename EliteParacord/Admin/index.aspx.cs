@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using Microsoft.AspNet.Identity;
 
 namespace EliteParacord.Admin
 {
@@ -12,6 +13,12 @@ namespace EliteParacord.Admin
         protected void Page_Load(object sender, EventArgs e)
         {
 
+        }
+
+        protected void btnLogOut_Click(object sender, EventArgs e)
+        {
+            HttpContext.Current.GetOwinContext().Authentication.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
+            Response.Redirect("~/Pages/Login.aspx");
         }
     }
 }
