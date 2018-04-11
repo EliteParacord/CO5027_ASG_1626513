@@ -159,6 +159,7 @@
     <Content Include="Images\logo.png" />
     <Content Include="Images\Logo2.png" />
     <Content Include="Images\About_Us\aboutimg.jpg" />
+    <Content Include="Images\Slideshow\Slide1.jpg" />
     <Content Include="Images\Slideshow\Slide2.jpg" />
     <Content Include="Images\Slideshow\Slide3.jpg" />
     <Content Include="Images\staticmap.png" />

@@ -32,7 +32,6 @@ namespace EliteParacord.Pages
             {
                 LogUserIn(userManager, user);
                 litLoginError.Text = "Log-in Successful !";
-                Response.Redirect("~/Admin/index.aspx");
 
             }
             else

@@ -21,8 +21,9 @@
     <script src="../JS/jquery-3.2.0.min.js"></script>
     <script src="../JS/jquery.cycle2.min.js"></script>
      <section class="cycle-slideshow">
-         <img src="~/Images/Slideshow/Slide2.jpg" alt="Products 1" class="auto-style4" runat="server"  />
-         <img src="~/Images/Slideshow/Slide3.jpg" alt="Products 2"  runat="server"/>
+         <img src="~/Images/Slideshow/Slide1.jpg" alt="Products 1" class="auto-style4" runat="server"  />
+         <img src="~/Images/Slideshow/Slide2.jpg" alt="Products 2"  runat="server"/>
+          <img src="~/Images/Slideshow/Slide3.jpg" alt="Products 3"  runat="server"/>
             <span class="cycle-next">&#9001;</span>
             <span class="cycle-prev">&#9002;</span>
             <span class="cycle-pager"></span>
