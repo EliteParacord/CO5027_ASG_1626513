@@ -10,7 +10,7 @@
     <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Upload" Height="38px" Width="174px" />
     <br />
     <br />
-    <asp:Image ID="CurrentImage" runat="server" Height="238px" Width="352px" />
+    <asp:Image ID="CurrentImage" runat="server" Height="265px" Width="310px" />
     <br />
     <br />
         <a href="List.aspx">Back</a>

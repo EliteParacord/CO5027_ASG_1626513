@@ -4,11 +4,13 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container">
-        <h1>Welcome to the Admin Panel</h1>
-        <p>Default Page for Admin</p>
+        <h1>&nbsp;Administrator Account</h1>
+        <p>Welcome to the default Page for Admin.</p>
+        <p>&nbsp;</p>
         <p><a href="List.aspx">List Products</a></p>
+        <p>&nbsp;</p>
         <p>
-            <asp:Button ID="btnLogOut" runat="server" OnClick="btnLogOut_Click" Text="Log Out" />
+            <asp:Button ID="btnLogOut" runat="server" OnClick="btnLogOut_Click" Text="Log Out" Height="49px" Width="160px" />
         </p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>

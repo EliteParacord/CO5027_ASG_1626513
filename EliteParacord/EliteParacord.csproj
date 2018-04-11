@@ -146,11 +146,21 @@
     <Content Include="Admin\index.aspx" />
     <Content Include="Admin\List.aspx" />
     <Content Include="Admin\UploadImage.aspx" />
+    <Content Include="Images\Default_Page\Product1.jpg" />
+    <Content Include="Images\Default_Page\Product2.jpg" />
+    <Content Include="Images\Default_Page\Product3.jpg" />
+    <Content Include="Images\Default_Page\Product4.jpg" />
+    <Content Include="Images\Default_Page\Product5.jpg" />
+    <Content Include="Images\Default_Page\Product6.jpg" />
+    <Content Include="Images\Footer_Img\american.png" />
+    <Content Include="Images\Footer_Img\mastercard.png" />
+    <Content Include="Images\Footer_Img\paypal.png" />
+    <Content Include="Images\Footer_Img\visa.png" />
     <Content Include="Images\logo.png" />
     <Content Include="Images\Logo2.png" />
-    <Content Include="Images\aboutimg.jpg" />
-    <Content Include="Images\Slideshow\Slide1.jpg" />
+    <Content Include="Images\About_Us\aboutimg.jpg" />
     <Content Include="Images\Slideshow\Slide2.jpg" />
+    <Content Include="Images\Slideshow\Slide3.jpg" />
     <Content Include="Images\staticmap.png" />
     <Content Include="JS\jquery-3.2.0.min.js" />
     <Content Include="JS\jquery.cycle2.min.js" />
@@ -183,7 +193,7 @@
     <Content Include="Pages\About.aspx" />
     <Content Include="Pages\Contact.aspx" />
     <Content Include="CSS\style.css" />
-    <Content Include="Pages\Default.aspx" />
+    <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="HTML\index.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
@@ -235,11 +245,11 @@
     <Compile Include="Pages\Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Default.aspx.cs">
+    <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Pages\Default.aspx.designer.cs">
+    <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
