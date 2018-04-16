@@ -1,7 +1,7 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true" CodeBehind="UploadImage.aspx.cs" Inherits="EliteParacord.Admin.UploadImage" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin/Admin.Master" AutoEventWireup="true" CodeBehind="UploadImage.aspx.cs" Inherits="EliteParacord.Admin.UploadImage" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head2" runat="server">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" runat="server">
     <div id="container">
         <h1>Upload Product Image</h1>
         <asp:FileUpload ID="imageFileUploadControl" runat="server" Height="38px" Width="371px" />

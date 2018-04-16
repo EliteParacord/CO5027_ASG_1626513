@@ -14,23 +14,21 @@
     .auto-style4 {
         width: 1492px;
     }
-</style>
+    </style>
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <script src="../JS/jquery-3.2.0.min.js"></script>
     <script src="../JS/jquery.cycle2.min.js"></script>
      <section class="cycle-slideshow">
-         <img src="~/Images/Slideshow/Slide1.jpg" alt="Products 1" class="auto-style4" runat="server"  />
-         <img src="~/Images/Slideshow/Slide2.jpg" alt="Products 2"  runat="server"/>
-          <img src="~/Images/Slideshow/Slide3.jpg" alt="Products 3"  runat="server"/>
+         <img src="~/Images/Slideshow/Slide1.jpg" alt="Products 1" runat="server"/>
+         <img src="~/Images/Slideshow/Slide2.jpg" alt="Products 2" runat="server"/>
+         <img src="~/Images/Slideshow/Slide3.jpg" alt="Products 3" runat="server" />
             <span class="cycle-next">&#9001;</span>
             <span class="cycle-prev">&#9002;</span>
-            <span class="cycle-pager"></span>
       </section>
-        <br />
     <div class="auto-style1-default">
-        <div class="box">
+        <!--<div class="box">
             <h2>Featured Products</h2>
             <br />
             <div class="product-box">
@@ -71,8 +69,7 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dictum auctor dolor, nec tristique lacus molestie porttitor. Aenean et convallis metus, accumsan molestie eros. Proin non erat est. Integer tempus risus mi, in placerat est volutpat id. Donec lacus lacus, porta sed diam a, ornare feugiat nisi. Cras mi ante, blandit fermentum justo a, ornare lobortis turpis. Phasellus auctor tellus enim, vitae ullamcorper lectus finibus non.</p>
                 <h2>BND 8.50</h2>
             </div>
-        </div>
+        </div>-->
         <br />
-        <hr />
     </div>
 </asp:Content>

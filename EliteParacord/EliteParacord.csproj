@@ -172,6 +172,7 @@
     </Content>
     <Content Include="MasterPage.Master" />
     <Content Include="Admin\Web.config" />
+    <Content Include="Admin\Admin.Master" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Pages\Login.aspx" />
@@ -210,6 +211,13 @@
     </Compile>
     <Compile Include="Admin\Add.aspx.designer.cs">
       <DependentUpon>Add.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Admin.Master.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin.Master.designer.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
     </Compile>
     <Compile Include="Admin\index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
