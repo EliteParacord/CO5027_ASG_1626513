@@ -6,7 +6,7 @@
         width: 90%;
         margin: 0 auto;
         overflow: hidden;
-        height: 1500px;
+        height: 2500px;
     }
 
     .auto-style1 h1 {
@@ -19,22 +19,25 @@
         width: 1492px;
     }
 
-    #Product-Section {
-        float: left;
-        width:33%;
-        height:300px;
+    .repeater ul {
+        height:550px;
         margin-top:30px;
     }
 
-    #Product-Section a {
+    .repeater li {
+    display: inline-block;
+    float: left;
+    width: 33%;
+}
+
+
+    .repeater ul li a {
         text-decoration: none;
         color: navy;
         font-size: 20px;
     }
 
-     #Product-Section a p {
-        text-align: center;
-    }
+
     </style>
 </asp:Content>
 
@@ -55,13 +58,15 @@
             <HeaderTemplate>
             </HeaderTemplate>
             <ItemTemplate>
-
-                <div id="Product-Section">
-                    <a href="<%#Eval("ProductId","Pages/Product.aspx?id={0}") %>">
-                        <%#Eval("ProductName") %>
-                    </a>
-                    <p><%#Eval("ProductDesc") %></p>
-                </div>
+             
+<ul class="repeater">
+    <li>
+        <img src="Images/Default_Page/Product1.jpg" width="300px" /><br />
+        <a href="<%#Eval("ProductId","Pages/Product.aspx?id={0}") %>"><%#Eval("ProductName") %></a><br />
+        <p><%#Eval("ProductDesc") %></p><br />
+        <p><b>PRICE</b></p><%#Eval("Price")%>
+    </li>
+</ul>
                     
             </ItemTemplate>
             <FooterTemplate></ul></FooterTemplate>
