@@ -200,7 +200,6 @@
     <None Include="scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Pages\Login.aspx" />
     <Content Include="Pages\Product.aspx" />
-    <Content Include="ProductImages\Epal.jpg" />
     <Content Include="scripts\jquery-3.3.1.js" />
     <Content Include="scripts\jquery-3.3.1.min.js" />
     <Content Include="scripts\jquery-3.3.1.slim.js" />
@@ -315,6 +314,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Images\Products\" />
     <Folder Include="Models\" />
+    <Folder Include="ProductImages\" />
     <Folder Include="_bin_deployableAssemblies\x86\Microsoft.VC100.CRT\" />
   </ItemGroup>
   <PropertyGroup>
