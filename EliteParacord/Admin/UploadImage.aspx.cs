@@ -12,9 +12,9 @@ namespace EliteParacord.Admin
         protected void Page_Load(object sender, EventArgs e)
         {
             string productId = Request.QueryString["id"];
-            string ProductImages = productId + ".jpg";
+            string filename = productId + ".jpg";
 
-            CurrentImage.ImageUrl = "~/ProductImages/" + ProductImages;
+            CurrentImage.ImageUrl = "~/ProductImages/" + filename;
         }
 
         protected void Button1_Click(object sender, EventArgs e)

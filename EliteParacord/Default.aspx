@@ -3,15 +3,15 @@
       <link rel="stylesheet" type="text/css" href="CSS/style.css">
 <style type="text/css">
     .auto-style1 {
-        width: 90%;
+        width: 80%;
         margin: 0 auto;
         overflow: hidden;
-        height: 2500px;
+        height: 1500px;
     }
 
     .auto-style1 h1 {
         text-align:center;
-    }
+        }
     .auto-style3 {
         width: 1918px;
     }
@@ -19,22 +19,26 @@
         width: 1492px;
     }
 
+  
     .repeater ul {
         height:550px;
-        margin-top:30px;
+        width: 250px;
+        margin-top:25px;
     }
 
     .repeater li {
     display: inline-block;
     float: left;
-    width: 33%;
+    width: 380px;
+    padding: 50px;
 }
 
 
-    .repeater ul li a {
+    .repeater a {
         text-decoration: none;
         color: navy;
-        font-size: 20px;
+        font-size: 35px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
 
@@ -61,13 +65,13 @@
              
 <ul class="repeater">
     <li>
-        <img src="Images/Default_Page/Product1.jpg" width="300px" /><br />
+        <img src="/ProductImages/<%#Eval("ProductId" )%>.jpg" height="300px" /><br /> 
         <a href="<%#Eval("ProductId","Pages/Product.aspx?id={0}") %>"><%#Eval("ProductName") %></a><br />
         <p><%#Eval("ProductDesc") %></p><br />
         <p><b>PRICE</b></p><%#Eval("Price")%>
     </li>
 </ul>
-                    
+   
             </ItemTemplate>
             <FooterTemplate></ul></FooterTemplate>
         </asp:Repeater>

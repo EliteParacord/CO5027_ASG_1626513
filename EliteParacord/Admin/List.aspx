@@ -17,6 +17,7 @@
                 <asp:ButtonField ButtonType="Button" CommandName="Edit" HeaderText="Edit" ShowHeader="True" Text="Edit" />
                 <asp:ButtonField ButtonType="Button" CommandName="Delete" HeaderText="Delete" ShowHeader="True" Text="Delete" />
                 <asp:ButtonField ButtonType="Button" CommandName="Update" HeaderText="Update" ShowHeader="True" Text="Update" />
+                <asp:HyperLinkField AccessibleHeaderText="Upload Image" DataNavigateUrlFields="ProductId" DataNavigateUrlFormatString="UploadImage.aspx?id={0}" Text="Upload Image" />
             </Columns>
         </asp:GridView>
         <p>
