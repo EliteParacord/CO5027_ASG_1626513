@@ -11,9 +11,6 @@ namespace EliteParacord
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            string ProductId = Request.QueryString["id"];
-            string filename = ProductId + ".jpg";    
-             
         }
     }
 }

@@ -6,11 +6,13 @@
         width: 80%;
         margin: 0 auto;
         overflow: hidden;
-        height: 1500px;
+        height: auto;
     }
 
     .auto-style1 h1 {
-        text-align:center;
+        text-align:left;
+        padding-left:60px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         }
     .auto-style3 {
         width: 1918px;
@@ -18,12 +20,10 @@
     .auto-style4 {
         width: 1492px;
     }
-
   
     .repeater ul {
         height:550px;
         width: 250px;
-        margin-top:25px;
     }
 
     .repeater li {
@@ -39,6 +39,12 @@
         color: navy;
         font-size: 35px;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    .product-p {
+        padding-left: 60px;
+        font-family:  'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 80px;
     }
 
 
@@ -57,15 +63,15 @@
       </section>
         <br />
     <div class="auto-style1">
-        <h1>Products</h1>
         <asp:Repeater ID="Repeater1" runat="server" DataSourceID="SqlDataSource1">
             <HeaderTemplate>
+                <p class="product-p">Products</p>
             </HeaderTemplate>
             <ItemTemplate>
              
 <ul class="repeater">
     <li>
-        <img src="/ProductImages/<%#Eval("ProductId" )%>.jpg" height="300px" /><br /> 
+        <a href="<%#Eval("ProductId","Pages/Product.aspx?id={0}") %>"><img src="/ProductImages/<%#Eval("ProductId" )%>.jpg" height="300px" /><br /> </a><br />
         <a href="<%#Eval("ProductId","Pages/Product.aspx?id={0}") %>"><%#Eval("ProductName") %></a><br />
         <p><%#Eval("ProductDesc") %></p><br />
         <p><b>PRICE</b></p><%#Eval("Price")%>
