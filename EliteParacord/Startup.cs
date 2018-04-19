@@ -18,7 +18,7 @@ namespace EliteParacord
             app.UseCookieAuthentication(new CookieAuthenticationOptions
                 {
                 AuthenticationType = DefaultAuthenticationTypes.ApplicationCookie,
-                LoginPath = new PathString("/Pages/Login.aspx")
+                LoginPath = new PathString("/login.aspx")
             });
         }
     }

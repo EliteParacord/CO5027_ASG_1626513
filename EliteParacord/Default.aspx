@@ -32,8 +32,6 @@
     width: 380px;
     padding: 50px;
 }
-
-
     .repeater a {
         text-decoration: none;
         color: navy;
@@ -42,9 +40,9 @@
     }
 
     .product-p {
-        padding-left: 60px;
+        padding-left: 85px;
         font-family:  'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        font-size: 80px;
+        font-size: 50px;
     }
 
 
@@ -52,14 +50,15 @@
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <script src="../JS/jquery-3.2.0.min.js"></script>
-    <script src="../JS/jquery.cycle2.min.js"></script>
+    
      <section class="cycle-slideshow">
          <img src="~/Images/Slideshow/Slide1.jpg" alt="Products 1" runat="server"/>
          <img src="~/Images/Slideshow/Slide2.jpg" alt="Products 2" runat="server"/>
          <img src="~/Images/Slideshow/Slide3.jpg" alt="Products 3" runat="server" />
             <span class="cycle-next">&#9001;</span>
             <span class="cycle-prev">&#9002;</span>
+    <script src="../JS/jquery-3.2.0.min.js"></script>
+    <script src="../JS/jquery.cycle2.min.js"></script>
       </section>
         <br />
     <div class="auto-style1">
@@ -71,7 +70,7 @@
              
 <ul class="repeater">
     <li>
-        <a href="<%#Eval("ProductId","Pages/Product.aspx?id={0}") %>"><img src="/ProductImages/<%#Eval("ProductId" )%>.jpg" height="300px" /><br /> </a><br />
+        <a href="<%#Eval("ProductId","Pages/Product.aspx?id={0}") %>"><img src="/ProductImages/<%#Eval("ProductId" )%>.jpg" height="300px" /><br /></a><br />
         <a href="<%#Eval("ProductId","Pages/Product.aspx?id={0}") %>"><%#Eval("ProductName") %></a><br />
         <p><%#Eval("ProductDesc") %></p><br />
         <p><b>PRICE</b></p><%#Eval("Price")%>
