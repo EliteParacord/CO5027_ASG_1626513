@@ -70,7 +70,7 @@
              
 <ul class="repeater">
     <li>
-        <a href="<%#Eval("ProductId","Pages/Product.aspx?id={0}") %>"><img src="/ProductImages/<%#Eval("ProductId" )%>.jpg" height="300px" /><br /></a><br />
+        <a href="<%#Eval("ProductId","Pages/Product.aspx?id={0}") %>"><img src="CO5027/ProductImages/<%#Eval("ProductId" )%>.jpg" height="300" /><br /></a><br />
         <a href="<%#Eval("ProductId","Pages/Product.aspx?id={0}") %>"><%#Eval("ProductName") %></a><br />
         <p><%#Eval("ProductDesc") %></p><br />
         <p><b>PRICE</b></p><%#Eval("Price")%>

@@ -7,9 +7,9 @@
         <div id="Login-block-1">
             <h1>&nbsp;</h1>
             <h1>&nbsp;Login Page</h1>
-            <p>Email Address<asp:TextBox ID="TxtLoginEmail" runat="server" CssClass="login-auto-style1" Width="250px" style="margin-left: 20px" ControlToValidate="TxtLoginEmail"></asp:TextBox>
+            <p>Email Address<asp:TextBox ID="TxtLoginEmail" runat="server" CssClass="login-auto-style1" Width="250px" style="margin-left: 20px"></asp:TextBox>
             </p>
-            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="*E-mail Required!" ControlToValidate="TxtLoginEmail"></asp:RequiredFieldValidator>
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="* E-mail Required!" ControlToValidate="TxtLoginEmail"></asp:RequiredFieldValidator>
             <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ErrorMessage="*Invalid E-mail format !" ControlToValidate="TxtLoginEmail" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
             <p>Password<asp:TextBox ID="TxtLoginPassword" runat="server" CssClass="login-auto-style2" Width="247px" TextMode="Password"></asp:TextBox>
             <br />
