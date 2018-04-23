@@ -61,10 +61,10 @@
                     <h2>Payment Options</h2>
                     <p>Paypal</p>
                     <div id="footer-payment-logo">
-                    <img src="~/Images/Footer_Img/mastercard.png" runat="server" />
-                    <img src="~/Images/Footer_Img/visa.png" runat="server" />
-                    <img src="~/Images/Footer_Img/american.png" runat="server"/>
-                    <img src="~/Images/Footer_Img/paypal.png" runat="server"/>
+                    <img src="~/Images/Footer_Img/mastercard.png" alt="Mastercard Logo" runat="server" />
+                    <img src="~/Images/Footer_Img/visa.png" alt="Visa Logo" runat="server" />
+                    <img src="~/Images/Footer_Img/american.png" alt="American Express Logo" runat="server"/>
+                    <img src="~/Images/Footer_Img/paypal.png" alt="Paypal Logo" runat="server"/>
                     </div>
                 </div>
                 
@@ -79,6 +79,7 @@
             <div id="validator">
                     <a href="http://validator.w3.org/check?uri=referer">Validate HTML   </a>
                     <a href="http://jigsaw.w3.org/css-validator/check/referer">Validate CSS</a>
+                    <a href="https://achecker.ca/checker/index.php">Validate WCAG</a>
              </div>
                 </div>
         </footer>

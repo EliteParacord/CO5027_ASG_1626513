@@ -9,11 +9,8 @@
             <h1>&nbsp;Login Page</h1>
             <p>Email Address<asp:TextBox ID="TxtLoginEmail" runat="server" CssClass="login-auto-style1" Width="250px" style="margin-left: 20px"></asp:TextBox>
             </p>
-            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="* E-mail Required!" ControlToValidate="TxtLoginEmail"></asp:RequiredFieldValidator>
-            <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ErrorMessage="*Invalid E-mail format !" ControlToValidate="TxtLoginEmail" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
             <p>Password<asp:TextBox ID="TxtLoginPassword" runat="server" CssClass="login-auto-style2" Width="247px" TextMode="Password"></asp:TextBox>
             <br />
-            <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="* Password Required !" ControlToValidate="TxtLoginPassword"></asp:RequiredFieldValidator>
             </p>
             <p>
                 <asp:Button ID="btnLogin" runat="server" CssClass="login-auto-style3" Height="42px" Text="Sign In" Width="134px" OnClick="btnLogin_Click" />
@@ -21,7 +18,15 @@
             <p>
                 <asp:Literal ID="litLoginError" runat="server"></asp:Literal>
             </p>
-            <p>&nbsp;</p>
+            <p>
+            <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ErrorMessage="* Invalid E-mail format !" ControlToValidate="TxtLoginEmail" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
+            </p>
+            <p>
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="* E-mail Required!" ControlToValidate="TxtLoginEmail"></asp:RequiredFieldValidator>
+            </p>
+            <p>
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="* Password Required !" ControlToValidate="TxtLoginPassword"></asp:RequiredFieldValidator>
+            </p>
         </div>
         <div id="Login-block-2" class="login-auto-style4">
             <div id="container">
@@ -37,6 +42,14 @@
         <p> 
             <asp:Button ID="btnUserReg" runat="server" Height="30px" OnClick="btnUserReg_Click" Text="Register" Width="181px" />
         </p>
+                <p> 
+            &nbsp;
+        </p>
+                <p> 
+            &nbsp;
+        </p>
+                <p> 
+                    &nbsp;</p>
         <p> 
             <asp:Literal ID="litReg" runat="server"></asp:Literal>
         </p>

@@ -10,8 +10,9 @@
             <h1>About Us</h1>
             <br />
             <div id="about_us_logo">
-                <img src="../Images/Logo.png"/><br />
+                <img src="../Images/Logo.png" alt="Company Logo"/><br />
             </div>
+            <br />
             <div class="about_us_pic"> 
                 <img src="../Images/About_Us/aboutimg.jpg" alt="Paracord Bracelet" runat="server"/>
              </div>

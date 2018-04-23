@@ -12,5 +12,10 @@ namespace EliteParacord
         protected void Page_Load(object sender, EventArgs e)
         {
         }
+
+        protected void BtnBuyNow_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Pages/Product.aspx?id={0}");
+        }
     }
 }

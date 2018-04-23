@@ -170,6 +170,9 @@
     <Content Include="Admin\index.aspx" />
     <Content Include="Admin\List.aspx" />
     <Content Include="Admin\UploadImage.aspx" />
+    <Content Include="CSS\ContactPage.css" />
+    <Content Include="CSS\DefaultPage.css" />
+    <Content Include="CSS\ProductPage.css" />
     <Content Include="Images\Default_Page\Product1.jpg" />
     <Content Include="Images\Default_Page\Product2.jpg" />
     <Content Include="Images\Default_Page\Product3.jpg" />

@@ -18,7 +18,7 @@ namespace EliteParacord.Admin
         protected void btnLogOut_Click(object sender, EventArgs e)
         {
             HttpContext.Current.GetOwinContext().Authentication.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
-            Response.Redirect("/login.aspx");
+            Response.Redirect("~/login.aspx");
         }
     }
 }

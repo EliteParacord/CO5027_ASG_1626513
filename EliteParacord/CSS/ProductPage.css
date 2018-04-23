@@ -1,0 +1,24 @@
+﻿   #Product-Left-Description {
+            float:left;
+            width: 60%;
+        }
+
+        #Product-Left-Description h3 {
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            color: navy;
+        }
+
+         #Product-Left-Description img {
+             width: 400px;
+         }
+
+        #Product-Right-Description {
+            float: right;
+            width: 40%;
+            margin-top: 60px;
+        }
+
+        #Product-Right-Description p {
+            font-size: 24px;
+            font-weight: normal;
+        }
